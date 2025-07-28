@@ -14,5 +14,5 @@ pydis51 is a disassembler written in Python that converts Intel HEX files into h
 - Input: Intel HEX format file
 - Output: Assembly language file (.asm)
 
-![dump hex]([https://github.com/syeedameen/pydis51/blob/master/Resources/dump.png])
+![hex](https://github.com/syeedameen/pydis51/blob/master/Resources/dump.png)
  
